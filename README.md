@@ -150,11 +150,11 @@ const muaaz = {
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-7c3aed?style=for-the-badge"/>
 </a>
 &nbsp;
-<a href="mailto:your@email.com">
+<a href="muaazaliwork@gmail.com">
   <img src="https://img.shields.io/badge/📧%20Email-Hit%20Me%20Up-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href= "https://www.linkedin.com/in/muhammad-muaaz-ali-6373ab2a3/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
