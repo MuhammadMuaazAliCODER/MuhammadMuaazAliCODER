@@ -114,7 +114,6 @@ const muaaz = {
   <img src="https://raw.githubusercontent.com/MuhammadMuaazAliCODER/MuhammadMuaazAliCODER/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> 💡 _To activate the snake: Go to your GitHub repo → Actions → Enable workflows → Add [this workflow](https://github.com/Platane/snk#usage)_
 
 ---
 
